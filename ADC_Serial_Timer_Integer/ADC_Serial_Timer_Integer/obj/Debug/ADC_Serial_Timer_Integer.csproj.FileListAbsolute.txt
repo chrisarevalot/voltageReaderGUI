@@ -1,0 +1,10 @@
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\bin\Debug\ADC_Serial_Timer_Integer.exe.config
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\bin\Debug\ADC_Serial_Timer_Integer.exe
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\bin\Debug\ADC_Serial_Timer_Integer.pdb
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.csprojAssemblyReference.cache
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.Form1.resources
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.Properties.Resources.resources
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.csproj.GenerateResource.cache
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.exe
+C:\Users\Sotto\Documents\VS Projects\ADC_Serial_Timer_Integer\ADC_Serial_Timer_Integer\obj\Debug\ADC_Serial_Timer_Integer.pdb
